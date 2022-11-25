@@ -13,11 +13,14 @@ Es un juego del usuario con el ordenador. El usuario elije por pantalla con el n
 - `2: Papel`
 - `3: Tijera`
 
-Si se elije otra opción se solicita que se intente nuevamente.
+Si se elije otra opción se solicita que se intente nuevamente
+
 <img src="./prueba2.png" alt="ejemplo 1">
+
 Luego se genera un número pseudoaleatorio para el ordenador y se analiza quién gana.
 
 Se sigue jugando, solicitando la opción del usuario hasta que se completan 5 jugadas válidas.
 
 Al final se muestra en pantalla el resultado global para definir si gana el usuario o el ordenador.
+
 <img src="./prueba2.png" alt="ejemplo 2">
