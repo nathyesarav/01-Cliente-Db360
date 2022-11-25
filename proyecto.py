@@ -35,5 +35,7 @@ print("Resultado final:\nEmpates:", resultado[0],"\nVictorias:", resultado[1],"\
 
 if resultado[1] > resultado[2]:
     print("Ganaste!")
+elif resultado[1] == resultado[2]:
+    print("Es un empate!")
 else:
-    print("Perdiste! Gana ordenador")
+    print("Perdiste, Gana el Ordenador!")
