@@ -4,7 +4,7 @@
 
 ## Introduccion
 
-Este repositorio incluye el códugo para un juego de Piedra/Papel/Tijera en Python.
+Este repositorio incluye el código para un juego de Piedra/Papel/Tijera en Python.
 
 ## Reglas del juego
 
